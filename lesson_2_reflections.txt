@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 when we initialize a new repository, Git tracks the changes in the files of the repository 
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+it's just 1 step from committing
