@@ -11,3 +11,4 @@ It can be viewed as context switching,like whenever I need to correct a bug
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do
 result of merging two branches is the commits common to 
 both of them
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
